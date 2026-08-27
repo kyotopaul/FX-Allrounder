@@ -1,0 +1,834 @@
+{
+  "per_window": {
+    "regime_hmm": [
+      {
+        "final_return_pct": -2.6113380608903185,
+        "max_drawdown_pct": -3.4892640889856352,
+        "sharpe": -0.598813935218096,
+        "win_rate_pct": 39.795918367346935,
+        "total_trades": 98,
+        "final_balance": 97.38866193910968,
+        "mode_usage": {
+          "TREND": 578,
+          "SHADOW": 421
+        },
+        "filtered": {
+          "confirmation": 930,
+          "confidence": 1543,
+          "cooldown": 9,
+          "portfolio": 271
+        },
+        "window": "window_00_2025-09-26_to_2025-10-13",
+        "mode": "regime_hmm"
+      },
+      {
+        "final_return_pct": -2.0602192376121735,
+        "max_drawdown_pct": -3.3581549485515727,
+        "sharpe": -0.5157494732043975,
+        "win_rate_pct": 42.14876033057851,
+        "total_trades": 121,
+        "final_balance": 97.93978076238783,
+        "mode_usage": {
+          "TREND": 317,
+          "SHADOW": 682
+        },
+        "filtered": {
+          "confirmation": 1297,
+          "confidence": 907,
+          "cooldown": 14,
+          "portfolio": 502
+        },
+        "window": "window_01_2025-10-13_to_2025-10-27",
+        "mode": "regime_hmm"
+      },
+      {
+        "final_return_pct": -1.215871210989718,
+        "max_drawdown_pct": -2.3699955407793953,
+        "sharpe": -0.357270738107102,
+        "win_rate_pct": 46.36363636363636,
+        "total_trades": 110,
+        "final_balance": 98.78412878901028,
+        "mode_usage": {
+          "TREND": 291,
+          "SHADOW": 708
+        },
+        "filtered": {
+          "confirmation": 1463,
+          "confidence": 702,
+          "cooldown": 18,
+          "portfolio": 562
+        },
+        "window": "window_02_2025-10-27_to_2025-11-10",
+        "mode": "regime_hmm"
+      },
+      {
+        "final_return_pct": -4.3837399449649155,
+        "max_drawdown_pct": -5.035784266368445,
+        "sharpe": -1.2653790815157835,
+        "win_rate_pct": 41.12903225806452,
+        "total_trades": 124,
+        "final_balance": 95.61626005503508,
+        "mode_usage": {
+          "TREND": 244,
+          "SHADOW": 755
+        },
+        "filtered": {
+          "confirmation": 1537,
+          "confidence": 618,
+          "cooldown": 12,
+          "portfolio": 500
+        },
+        "window": "window_03_2025-11-10_to_2025-11-25",
+        "mode": "regime_hmm"
+      },
+      {
+        "final_return_pct": -2.5237691886432287,
+        "max_drawdown_pct": -3.3275770476404345,
+        "sharpe": -0.7579956709620655,
+        "win_rate_pct": 46.72131147540984,
+        "total_trades": 122,
+        "final_balance": 97.47623081135677,
+        "mode_usage": {
+          "TREND": 268,
+          "SHADOW": 731
+        },
+        "filtered": {
+          "confirmation": 1506,
+          "confidence": 669,
+          "cooldown": 13,
+          "portfolio": 484
+        },
+        "window": "window_04_2025-11-25_to_2025-12-09",
+        "mode": "regime_hmm"
+      },
+      {
+        "final_return_pct": -4.077352568106903,
+        "max_drawdown_pct": -4.482911561716575,
+        "sharpe": -1.2229655972460993,
+        "win_rate_pct": 39.130434782608695,
+        "total_trades": 115,
+        "final_balance": 95.9226474318931,
+        "mode_usage": {
+          "TREND": 183,
+          "SHADOW": 816
+        },
+        "filtered": {
+          "confirmation": 1510,
+          "confidence": 493,
+          "cooldown": 22,
+          "portfolio": 598
+        },
+        "window": "window_05_2025-12-09_to_2025-12-24",
+        "mode": "regime_hmm"
+      },
+      {
+        "final_return_pct": -4.414437605772136,
+        "max_drawdown_pct": -4.538535398289088,
+        "sharpe": -1.4572784859064871,
+        "win_rate_pct": 35.77235772357724,
+        "total_trades": 123,
+        "final_balance": 95.58556239422786,
+        "mode_usage": {
+          "TREND": 333,
+          "SHADOW": 666
+        },
+        "filtered": {
+          "confirmation": 1379,
+          "confidence": 775,
+          "cooldown": 15,
+          "portfolio": 429
+        },
+        "window": "window_06_2025-12-24_to_2026-01-09",
+        "mode": "regime_hmm"
+      },
+      {
+        "final_return_pct": 0.01142461172963749,
+        "max_drawdown_pct": -2.551541716685068,
+        "sharpe": 0.007790515340223904,
+        "win_rate_pct": 47.96747967479675,
+        "total_trades": 123,
+        "final_balance": 100.01142461172964,
+        "mode_usage": {
+          "TREND": 196,
+          "SHADOW": 803
+        },
+        "filtered": {
+          "confirmation": 1584,
+          "confidence": 461,
+          "cooldown": 9,
+          "portfolio": 541
+        },
+        "window": "window_07_2026-01-09_to_2026-01-26",
+        "mode": "regime_hmm"
+      },
+      {
+        "final_return_pct": 0.6264155068846406,
+        "max_drawdown_pct": -1.607985949710073,
+        "sharpe": 0.1403683519235565,
+        "win_rate_pct": 47.32824427480916,
+        "total_trades": 131,
+        "final_balance": 100.62641550688464,
+        "mode_usage": {
+          "TREND": 304,
+          "SHADOW": 695
+        },
+        "filtered": {
+          "confirmation": 1493,
+          "confidence": 693,
+          "cooldown": 11,
+          "portfolio": 443
+        },
+        "window": "window_08_2026-01-26_to_2026-02-09",
+        "mode": "regime_hmm"
+      },
+      {
+        "final_return_pct": -1.5851746886716853,
+        "max_drawdown_pct": -3.530383971770358,
+        "sharpe": -0.4080108962472737,
+        "win_rate_pct": 48.0,
+        "total_trades": 125,
+        "final_balance": 98.41482531132831,
+        "mode_usage": {
+          "TREND": 314,
+          "SHADOW": 685
+        },
+        "filtered": {
+          "confirmation": 1552,
+          "confidence": 665,
+          "cooldown": 9,
+          "portfolio": 366
+        },
+        "window": "window_09_2026-02-09_to_2026-02-23",
+        "mode": "regime_hmm"
+      },
+      {
+        "final_return_pct": -3.0185977193042532,
+        "max_drawdown_pct": -4.152886104623553,
+        "sharpe": -0.47018248184619554,
+        "win_rate_pct": 42.33576642335766,
+        "total_trades": 137,
+        "final_balance": 96.98140228069575,
+        "mode_usage": {
+          "TREND": 372,
+          "SHADOW": 627
+        },
+        "filtered": {
+          "confirmation": 1452,
+          "confidence": 803,
+          "cooldown": 28,
+          "portfolio": 376
+        },
+        "window": "window_10_2026-02-23_to_2026-03-10",
+        "mode": "regime_hmm"
+      },
+      {
+        "final_return_pct": -1.2340226837515473,
+        "max_drawdown_pct": -3.2808917447581005,
+        "sharpe": -0.18867825801935353,
+        "win_rate_pct": 42.65734265734265,
+        "total_trades": 143,
+        "final_balance": 98.76597731624845,
+        "mode_usage": {
+          "TREND": 305,
+          "SHADOW": 694
+        },
+        "filtered": {
+          "confirmation": 1473,
+          "confidence": 750,
+          "cooldown": 28,
+          "portfolio": 494
+        },
+        "window": "window_11_2026-03-10_to_2026-03-25",
+        "mode": "regime_hmm"
+      },
+      {
+        "final_return_pct": -2.4116620105042585,
+        "max_drawdown_pct": -4.222402254691007,
+        "sharpe": -0.513547055947518,
+        "win_rate_pct": 42.241379310344826,
+        "total_trades": 116,
+        "final_balance": 97.58833798949574,
+        "mode_usage": {
+          "TREND": 200,
+          "SHADOW": 799
+        },
+        "filtered": {
+          "confirmation": 1557,
+          "confidence": 548,
+          "cooldown": 16,
+          "portfolio": 627
+        },
+        "window": "window_12_2026-03-25_to_2026-04-08",
+        "mode": "regime_hmm"
+      }
+    ],
+    "always_shadow": [
+      {
+        "final_return_pct": -2.3406677076769284,
+        "max_drawdown_pct": -3.5132047297195754,
+        "sharpe": -0.6021015685722579,
+        "win_rate_pct": 43.16546762589928,
+        "total_trades": 139,
+        "final_balance": 97.65933229232307,
+        "mode_usage": {
+          "TREND": 0,
+          "SHADOW": 999
+        },
+        "filtered": {
+          "confirmation": 1633,
+          "confidence": 196,
+          "cooldown": 29,
+          "portfolio": 699
+        },
+        "window": "window_00_2025-09-26_to_2025-10-13",
+        "mode": "always_shadow"
+      },
+      {
+        "final_return_pct": 0.5524663110835917,
+        "max_drawdown_pct": -2.9729099635121594,
+        "sharpe": 0.14399050940800445,
+        "win_rate_pct": 56.92307692307692,
+        "total_trades": 130,
+        "final_balance": 100.55246631108359,
+        "mode_usage": {
+          "TREND": 0,
+          "SHADOW": 999
+        },
+        "filtered": {
+          "confirmation": 1591,
+          "confidence": 270,
+          "cooldown": 18,
+          "portfolio": 753
+        },
+        "window": "window_01_2025-10-13_to_2025-10-27",
+        "mode": "always_shadow"
+      },
+      {
+        "final_return_pct": 0.8119246433067248,
+        "max_drawdown_pct": -1.9177768420598595,
+        "sharpe": 0.20822623004431776,
+        "win_rate_pct": 52.75590551181102,
+        "total_trades": 127,
+        "final_balance": 100.81192464330672,
+        "mode_usage": {
+          "TREND": 0,
+          "SHADOW": 999
+        },
+        "filtered": {
+          "confirmation": 1650,
+          "confidence": 245,
+          "cooldown": 20,
+          "portfolio": 780
+        },
+        "window": "window_02_2025-10-27_to_2025-11-10",
+        "mode": "always_shadow"
+      },
+      {
+        "final_return_pct": -3.7687441364285235,
+        "max_drawdown_pct": -4.293539090109938,
+        "sharpe": -0.9706343842387805,
+        "win_rate_pct": 42.95774647887324,
+        "total_trades": 142,
+        "final_balance": 96.23125586357148,
+        "mode_usage": {
+          "TREND": 0,
+          "SHADOW": 999
+        },
+        "filtered": {
+          "confirmation": 1611,
+          "confidence": 238,
+          "cooldown": 29,
+          "portfolio": 712
+        },
+        "window": "window_03_2025-11-10_to_2025-11-25",
+        "mode": "always_shadow"
+      },
+      {
+        "final_return_pct": -4.243639303052802,
+        "max_drawdown_pct": -4.426764200388963,
+        "sharpe": -1.164813926471303,
+        "win_rate_pct": 40.15151515151515,
+        "total_trades": 132,
+        "final_balance": 95.7563606969472,
+        "mode_usage": {
+          "TREND": 0,
+          "SHADOW": 999
+        },
+        "filtered": {
+          "confirmation": 1667,
+          "confidence": 213,
+          "cooldown": 21,
+          "portfolio": 713
+        },
+        "window": "window_04_2025-11-25_to_2025-12-09",
+        "mode": "always_shadow"
+      },
+      {
+        "final_return_pct": -4.474740826886446,
+        "max_drawdown_pct": -4.958957778268594,
+        "sharpe": -1.3783369364840177,
+        "win_rate_pct": 45.925925925925924,
+        "total_trades": 135,
+        "final_balance": 95.52525917311355,
+        "mode_usage": {
+          "TREND": 0,
+          "SHADOW": 999
+        },
+        "filtered": {
+          "confirmation": 1569,
+          "confidence": 259,
+          "cooldown": 31,
+          "portfolio": 703
+        },
+        "window": "window_05_2025-12-09_to_2025-12-24",
+        "mode": "always_shadow"
+      },
+      {
+        "final_return_pct": -2.3814278426474402,
+        "max_drawdown_pct": -2.4404409370749534,
+        "sharpe": -0.7718309912358717,
+        "win_rate_pct": 41.935483870967744,
+        "total_trades": 124,
+        "final_balance": 97.61857215735256,
+        "mode_usage": {
+          "TREND": 0,
+          "SHADOW": 999
+        },
+        "filtered": {
+          "confirmation": 1567,
+          "confidence": 228,
+          "cooldown": 26,
+          "portfolio": 642
+        },
+        "window": "window_06_2025-12-24_to_2026-01-09",
+        "mode": "always_shadow"
+      },
+      {
+        "final_return_pct": -0.3947469757614499,
+        "max_drawdown_pct": -2.438971168913329,
+        "sharpe": -0.09278885043646623,
+        "win_rate_pct": 52.34375,
+        "total_trades": 128,
+        "final_balance": 99.60525302423855,
+        "mode_usage": {
+          "TREND": 0,
+          "SHADOW": 999
+        },
+        "filtered": {
+          "confirmation": 1605,
+          "confidence": 205,
+          "cooldown": 22,
+          "portfolio": 691
+        },
+        "window": "window_07_2026-01-09_to_2026-01-26",
+        "mode": "always_shadow"
+      },
+      {
+        "final_return_pct": -0.7697513801418694,
+        "max_drawdown_pct": -2.256452068690095,
+        "sharpe": -0.12849838893134957,
+        "win_rate_pct": 40.0,
+        "total_trades": 155,
+        "final_balance": 99.23024861985813,
+        "mode_usage": {
+          "TREND": 0,
+          "SHADOW": 999
+        },
+        "filtered": {
+          "confirmation": 1506,
+          "confidence": 233,
+          "cooldown": 28,
+          "portfolio": 750
+        },
+        "window": "window_08_2026-01-26_to_2026-02-09",
+        "mode": "always_shadow"
+      },
+      {
+        "final_return_pct": -2.9705317314703734,
+        "max_drawdown_pct": -4.111370177557232,
+        "sharpe": -0.7207112146554084,
+        "win_rate_pct": 43.84615384615385,
+        "total_trades": 130,
+        "final_balance": 97.02946826852963,
+        "mode_usage": {
+          "TREND": 0,
+          "SHADOW": 999
+        },
+        "filtered": {
+          "confirmation": 1551,
+          "confidence": 240,
+          "cooldown": 21,
+          "portfolio": 673
+        },
+        "window": "window_09_2026-02-09_to_2026-02-23",
+        "mode": "always_shadow"
+      },
+      {
+        "final_return_pct": -3.2856121053100935,
+        "max_drawdown_pct": -4.268320949289918,
+        "sharpe": -0.5062121842962125,
+        "win_rate_pct": 39.75155279503105,
+        "total_trades": 161,
+        "final_balance": 96.7143878946899,
+        "mode_usage": {
+          "TREND": 0,
+          "SHADOW": 999
+        },
+        "filtered": {
+          "confirmation": 1637,
+          "confidence": 224,
+          "cooldown": 44,
+          "portfolio": 674
+        },
+        "window": "window_10_2026-02-23_to_2026-03-10",
+        "mode": "always_shadow"
+      },
+      {
+        "final_return_pct": -0.029202535223504356,
+        "max_drawdown_pct": -3.8445644790976354,
+        "sharpe": 0.003899924939009847,
+        "win_rate_pct": 44.230769230769226,
+        "total_trades": 156,
+        "final_balance": 99.9707974647765,
+        "mode_usage": {
+          "TREND": 0,
+          "SHADOW": 999
+        },
+        "filtered": {
+          "confirmation": 1628,
+          "confidence": 267,
+          "cooldown": 41,
+          "portfolio": 780
+        },
+        "window": "window_11_2026-03-10_to_2026-03-25",
+        "mode": "always_shadow"
+      },
+      {
+        "final_return_pct": -3.295278959261964,
+        "max_drawdown_pct": -4.327388231340437,
+        "sharpe": -0.6546589628762255,
+        "win_rate_pct": 39.2,
+        "total_trades": 125,
+        "final_balance": 96.70472104073804,
+        "mode_usage": {
+          "TREND": 0,
+          "SHADOW": 999
+        },
+        "filtered": {
+          "confirmation": 1634,
+          "confidence": 256,
+          "cooldown": 28,
+          "portfolio": 767
+        },
+        "window": "window_12_2026-03-25_to_2026-04-08",
+        "mode": "always_shadow"
+      }
+    ],
+    "always_trend": [
+      {
+        "final_return_pct": -3.054797662040855,
+        "max_drawdown_pct": -3.8920681525378966,
+        "sharpe": -0.863622475463011,
+        "win_rate_pct": 40.35087719298245,
+        "total_trades": 57,
+        "final_balance": 96.94520233795915,
+        "mode_usage": {
+          "TREND": 999,
+          "SHADOW": 0
+        },
+        "filtered": {
+          "confirmation": 3,
+          "confidence": 2897,
+          "cooldown": 3,
+          "portfolio": 19
+        },
+        "window": "window_00_2025-09-26_to_2025-10-13",
+        "mode": "always_trend"
+      },
+      {
+        "final_return_pct": -2.603045317068208,
+        "max_drawdown_pct": -3.2509901294367434,
+        "sharpe": -0.9625455066836182,
+        "win_rate_pct": 36.61971830985916,
+        "total_trades": 71,
+        "final_balance": 97.39695468293179,
+        "mode_usage": {
+          "TREND": 999,
+          "SHADOW": 0
+        },
+        "filtered": {
+          "confirmation": 3,
+          "confidence": 2870,
+          "cooldown": 4,
+          "portfolio": 26
+        },
+        "window": "window_01_2025-10-13_to_2025-10-27",
+        "mode": "always_trend"
+      },
+      {
+        "final_return_pct": -0.5543016835699603,
+        "max_drawdown_pct": -1.7417653003882796,
+        "sharpe": -0.1963403387171335,
+        "win_rate_pct": 48.529411764705884,
+        "total_trades": 68,
+        "final_balance": 99.44569831643004,
+        "mode_usage": {
+          "TREND": 999,
+          "SHADOW": 0
+        },
+        "filtered": {
+          "confirmation": 3,
+          "confidence": 2881,
+          "cooldown": 5,
+          "portfolio": 25
+        },
+        "window": "window_02_2025-10-27_to_2025-11-10",
+        "mode": "always_trend"
+      },
+      {
+        "final_return_pct": -2.8870220242525733,
+        "max_drawdown_pct": -3.0931092446801003,
+        "sharpe": -1.1158719830030261,
+        "win_rate_pct": 35.9375,
+        "total_trades": 64,
+        "final_balance": 97.11297797574743,
+        "mode_usage": {
+          "TREND": 999,
+          "SHADOW": 0
+        },
+        "filtered": {
+          "confirmation": 3,
+          "confidence": 2874,
+          "cooldown": 5,
+          "portfolio": 38
+        },
+        "window": "window_03_2025-11-10_to_2025-11-25",
+        "mode": "always_trend"
+      },
+      {
+        "final_return_pct": -1.8113428652410593,
+        "max_drawdown_pct": -2.242622008756844,
+        "sharpe": -0.7099230928679343,
+        "win_rate_pct": 36.76470588235294,
+        "total_trades": 68,
+        "final_balance": 98.18865713475894,
+        "mode_usage": {
+          "TREND": 999,
+          "SHADOW": 0
+        },
+        "filtered": {
+          "confirmation": 3,
+          "confidence": 2879,
+          "cooldown": 3,
+          "portfolio": 25
+        },
+        "window": "window_04_2025-11-25_to_2025-12-09",
+        "mode": "always_trend"
+      },
+      {
+        "final_return_pct": 0.48039053724656355,
+        "max_drawdown_pct": -0.8925026267946001,
+        "sharpe": 0.20438123875623204,
+        "win_rate_pct": 50.0,
+        "total_trades": 58,
+        "final_balance": 100.48039053724656,
+        "mode_usage": {
+          "TREND": 999,
+          "SHADOW": 0
+        },
+        "filtered": {
+          "confirmation": 3,
+          "confidence": 2876,
+          "cooldown": 1,
+          "portfolio": 37
+        },
+        "window": "window_05_2025-12-09_to_2025-12-24",
+        "mode": "always_trend"
+      },
+      {
+        "final_return_pct": -0.7224745995498836,
+        "max_drawdown_pct": -1.426633948171364,
+        "sharpe": -0.34589614568854526,
+        "win_rate_pct": 45.09803921568628,
+        "total_trades": 51,
+        "final_balance": 99.27752540045012,
+        "mode_usage": {
+          "TREND": 999,
+          "SHADOW": 0
+        },
+        "filtered": {
+          "confirmation": 3,
+          "confidence": 2896,
+          "cooldown": 3,
+          "portfolio": 22
+        },
+        "window": "window_06_2025-12-24_to_2026-01-09",
+        "mode": "always_trend"
+      },
+      {
+        "final_return_pct": -1.1462265309006199,
+        "max_drawdown_pct": -2.8882879040072225,
+        "sharpe": -0.4472143666360471,
+        "win_rate_pct": 40.27777777777778,
+        "total_trades": 72,
+        "final_balance": 98.85377346909938,
+        "mode_usage": {
+          "TREND": 999,
+          "SHADOW": 0
+        },
+        "filtered": {
+          "confirmation": 3,
+          "confidence": 2884,
+          "cooldown": 3,
+          "portfolio": 15
+        },
+        "window": "window_07_2026-01-09_to_2026-01-26",
+        "mode": "always_trend"
+      },
+      {
+        "final_return_pct": -2.7644701621106265,
+        "max_drawdown_pct": -3.297840788688388,
+        "sharpe": -0.8612274589646377,
+        "win_rate_pct": 30.434782608695656,
+        "total_trades": 69,
+        "final_balance": 97.23552983788937,
+        "mode_usage": {
+          "TREND": 999,
+          "SHADOW": 0
+        },
+        "filtered": {
+          "confirmation": 3,
+          "confidence": 2882,
+          "cooldown": 3,
+          "portfolio": 24
+        },
+        "window": "window_08_2026-01-26_to_2026-02-09",
+        "mode": "always_trend"
+      },
+      {
+        "final_return_pct": -1.4049723934377596,
+        "max_drawdown_pct": -1.9915334662749091,
+        "sharpe": -0.5345546822619296,
+        "win_rate_pct": 36.92307692307693,
+        "total_trades": 65,
+        "final_balance": 98.59502760656224,
+        "mode_usage": {
+          "TREND": 999,
+          "SHADOW": 0
+        },
+        "filtered": {
+          "confirmation": 3,
+          "confidence": 2897,
+          "cooldown": 3,
+          "portfolio": 19
+        },
+        "window": "window_09_2026-02-09_to_2026-02-23",
+        "mode": "always_trend"
+      },
+      {
+        "final_return_pct": -0.5903441876567115,
+        "max_drawdown_pct": -2.0625876357234123,
+        "sharpe": -0.1419955513997565,
+        "win_rate_pct": 49.23076923076923,
+        "total_trades": 65,
+        "final_balance": 99.40965581234329,
+        "mode_usage": {
+          "TREND": 999,
+          "SHADOW": 0
+        },
+        "filtered": {
+          "confirmation": 3,
+          "confidence": 2882,
+          "cooldown": 5,
+          "portfolio": 27
+        },
+        "window": "window_10_2026-02-23_to_2026-03-10",
+        "mode": "always_trend"
+      },
+      {
+        "final_return_pct": -1.5538938255278936,
+        "max_drawdown_pct": -2.27258700771435,
+        "sharpe": -0.4593763449737945,
+        "win_rate_pct": 40.57971014492754,
+        "total_trades": 69,
+        "final_balance": 98.4461061744721,
+        "mode_usage": {
+          "TREND": 999,
+          "SHADOW": 0
+        },
+        "filtered": {
+          "confirmation": 3,
+          "confidence": 2880,
+          "cooldown": 5,
+          "portfolio": 23
+        },
+        "window": "window_11_2026-03-10_to_2026-03-25",
+        "mode": "always_trend"
+      },
+      {
+        "final_return_pct": -2.8152770077350766,
+        "max_drawdown_pct": -3.783434142653988,
+        "sharpe": -0.9377356300400552,
+        "win_rate_pct": 35.38461538461539,
+        "total_trades": 65,
+        "final_balance": 97.18472299226492,
+        "mode_usage": {
+          "TREND": 999,
+          "SHADOW": 0
+        },
+        "filtered": {
+          "confirmation": 3,
+          "confidence": 2887,
+          "cooldown": 3,
+          "portfolio": 25
+        },
+        "window": "window_12_2026-03-25_to_2026-04-08",
+        "mode": "always_trend"
+      }
+    ]
+  },
+  "summary": [
+    {
+      "mode": "regime_hmm",
+      "n_windows": 13,
+      "return_mean_pct": -2.2229496000459124,
+      "return_std_pct": 1.5027457498649819,
+      "return_min_pct": -4.414437605772136,
+      "return_max_pct": 0.6264155068846406,
+      "sharpe_mean": -0.5852086774581994,
+      "sharpe_std": 0.4642449668855394,
+      "mdd_mean_pct": -3.5344857380437924,
+      "mdd_worst_pct": -5.035784266368445,
+      "win_rate_mean_pct": 43.199358741682545,
+      "windows_profitable": 2
+    },
+    {
+      "mode": "always_shadow",
+      "n_windows": 13,
+      "return_mean_pct": -2.045380965343929,
+      "return_std_pct": 1.7800250287034582,
+      "return_min_pct": -4.474740826886446,
+      "return_max_pct": 0.8119246433067248,
+      "sharpe_mean": -0.5103439033697355,
+      "sharpe_std": 0.4855294506885517,
+      "mdd_mean_pct": -3.5208200473863607,
+      "mdd_worst_pct": -4.958957778268594,
+      "win_rate_mean_pct": 44.860565181540274,
+      "windows_profitable": 2
+    },
+    {
+      "mode": "always_trend",
+      "n_windows": 13,
+      "return_mean_pct": -1.648290593988051,
+      "return_std_pct": 1.0771485934295495,
+      "return_min_pct": -3.054797662040855,
+      "return_max_pct": 0.48039053724656355,
+      "sharpe_mean": -0.5670709490725583,
+      "sharpe_std": 0.36993353748316543,
+      "mdd_mean_pct": -2.5258432581406227,
+      "mdd_worst_pct": -3.8920681525378966,
+      "win_rate_mean_pct": 40.47161418734224,
+      "windows_profitable": 1
+    }
+  ]
+}
